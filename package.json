@@ -1,0 +1,22 @@
+{
+  "name": "js-cleancode-refactoring-renaming",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codegym-vn/js-cleancode-refactoring-renaming.git"
+  },
+  "author": "codegym",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codegym-vn/js-cleancode-refactoring-renaming/issues"
+  },
+  "homepage": "https://github.com/codegym-vn/js-cleancode-refactoring-renaming#readme",
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}
